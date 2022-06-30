@@ -16,7 +16,7 @@ In order to integrate Flutter SDK to your project, please follow [this link](htt
 
 ## Support
 
-Have any questions about the React Native SDK? Visit our [community platform](http://community.antmedia.io/).
+Have any questions about the Flutter SDK? Visit our [community platform](http://community.antmedia.io/).
 
 ## Issues
 
