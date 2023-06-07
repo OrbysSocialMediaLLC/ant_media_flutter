@@ -54,7 +54,11 @@ class AntHelper extends Object {
   final Map<String, dynamic> _config = {
     "sdpSemantics": "plan-b",
     'iceServers': [
-      {'url': 'stun:stun.l.google.com:19302'},
+      {
+        'url': 'turn:turn.orbys.net',
+        'username': 'guest',
+        'credential': 'orbyslivevideo2021'
+      },
     ],
     'mandatory': {},
     'optional': [
